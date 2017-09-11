@@ -1,4 +1,6 @@
 Contributors
 ============
 //Add your name here
-1.
+1.FullName- Oladugba Demilade,
+  SlackName- demiladeola
+  githubName- DemTem
